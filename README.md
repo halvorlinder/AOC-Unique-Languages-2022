@@ -7,3 +7,4 @@
 | 3  | C    | Yes | C is obviously fine for these kinds of problems. |
 | 4  | Prolog (SWI) | Yes | Reading the input was painful, but doing the algorithm was fun. | 
 | 5  | Nim    | No | Did not like Nim. I did not get the language support to work well (or it lacks features). List comprehensions are weird, lacking pattern-matching-features. | 
+| 6  | APL (Dyalog)    | Yes | Cool language. Hard to read code. | 
