@@ -6,3 +6,4 @@
 | 2  | Zig    |
 | 3  | C    |
 | 4  | Prolog (SWI)    |
+| 5  | Nim    |
